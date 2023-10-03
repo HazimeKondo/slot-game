@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f260d3f8442c3004294829efb4b2baeb, type: 3}
+  m_Name: Symbol 6 - Butter
+  m_EditorClassIdentifier: 
+  Id: 6
+  Name: Butter
+  Sprite: {fileID: 273864437, guid: b70b796da7763d1478fa3bf51d0168c3, type: 3}

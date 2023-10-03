@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a44de12d4f8c0a149890e330f345411b, type: 3}
+  m_Name: Prize Data
+  m_EditorClassIdentifier: 
+  _prizes:
+  - _5InARow: 5000
+    _4InARow: 500
+    _3InARow: 50
+    _2InARow: 5
+  - _5InARow: 1000
+    _4InARow: 200
+    _3InARow: 40
+    _2InARow: 3
+  - _5InARow: 500
+    _4InARow: 150
+    _3InARow: 30
+    _2InARow: 2
+  - _5InARow: 300
+    _4InARow: 100
+    _3InARow: 25
+    _2InARow: 2
+  - _5InARow: 200
+    _4InARow: 75
+    _3InARow: 20
+    _2InARow: 0
+  - _5InARow: 200
+    _4InARow: 75
+    _3InARow: 20
+    _2InARow: 0
+  - _5InARow: 100
+    _4InARow: 50
+    _3InARow: 15
+    _2InARow: 0
+  - _5InARow: 100
+    _4InARow: 50
+    _3InARow: 15
+    _2InARow: 0
+  - _5InARow: 50
+    _4InARow: 25
+    _3InARow: 10
+    _2InARow: 0
+  - _5InARow: 50
+    _4InARow: 25
+    _3InARow: 10
+    _2InARow: 0
+  - _5InARow: 100
+    _4InARow: 25
+    _3InARow: 5
+    _2InARow: 0
